@@ -88,11 +88,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "Dancing Script",cursive;
+  font-family: "Great Vibes", cursive;
+  font-weight: 500;
   color: #6d0b0b;
   font-optical-sizing: auto;
   font-size: medium;
-  font-weight: 500;
 }
 
 .f-box {
